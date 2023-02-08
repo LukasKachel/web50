@@ -1,0 +1,45 @@
+.searchButton, .advancedSearchButton {
+  text-align: center;
+  border-radius: 5px; }
+
+.pageLinks {
+  text-align: right; }
+
+#googleLogo {
+  text-align: center;
+  font-size: 100px; }
+
+#googleImageLogo {
+  text-align: center;
+  font-size: 80px; }
+
+.mainSearch {
+  text-align: center;
+  margin: 10px; }
+
+.searchInputText {
+  text-align: left;
+  font-size: 15px;
+  border-radius: 25px;
+  width: 500px;
+  height: 45px;
+  margin: 10px; }
+
+.advancedSearchInputText {
+  text-align: left;
+  border-radius: 5px;
+  width: 300px;
+  margin: 10px; }
+
+.searchButton {
+  font-size: 15px;
+  width: 150px;
+  height: 35px; }
+
+.advancedSearchButton {
+  color: white;
+  background-color: blue;
+  width: 150px;
+  height: 40px; }
+
+/*# sourceMappingURL=styles.css.map */
